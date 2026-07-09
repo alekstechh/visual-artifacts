@@ -1,3 +1,4 @@
+© alekstechh@gmail.com 2026. All rights reserved
 # Система управления человеческим капиталом в инженерной команде
 
 ## Контекст: Зачем это все?
@@ -100,3 +101,9 @@
     *   *Пример:* Решить проблему с доступами к серверу Х до ЧТ (блокирует спринт).
 *   **Действие со стороны Сотрудника:** [Что сделать, какой результат получить, дедлайн]
     *   *Пример:* Подготовить и описать в Wiki план архитектуры модуля Y к следующему 1to1.
+    *   
+ 
+Лицензия и авторское право / License and Copyright
+© alekstechh, 2026. Все права защищены. Настоящий материал (включая текст, структуру и чек-листы) является объектом интеллектуальной собственности. Копирование, распространение, публикация, модификация или любое коммерческое использование материалов (включая перепродажу) без предварительного письменного согласования с правообладателем строго запрещены. По вопросам сотрудничества и коммерческого использования обращаться: alekstechh@gmail.com
+
+© alekstechh, 2026. All rights reserved. This material (including text, structure, and checklists) is protected by copyright law. Copying, distributing, publishing, modifying, or any commercial use of these materials (including resale) without the prior written consent of the copyright holder is strictly prohibited. For inquiries regarding commercial use or licensing, please contact: alekstechh@gmail.com
